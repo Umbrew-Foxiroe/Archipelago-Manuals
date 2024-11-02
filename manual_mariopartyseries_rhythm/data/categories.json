@@ -1,0 +1,20 @@
+{
+  "Mario Party 1": {"hidden": true, "yaml_option": ["mario_party_1"]},
+  "Mario Party 2": {"hidden": true, "yaml_option": ["mario_party_2"]},
+  "Mario Party 3": {"hidden": true, "yaml_option": ["mario_party_3"]},
+  "Mario Party 4": {"hidden": true, "yaml_option": ["mario_party_4"]},
+  "Mario Party 5": {"hidden": true, "yaml_option": ["mario_party_5"]},
+  "Mario Party 6": {"hidden": true, "yaml_option": ["mario_party_6"]},
+  "Mario Party 7": {"hidden": true, "yaml_option": ["mario_party_7"]},
+  "Mario Party 8": {"hidden": true, "yaml_option": ["mario_party_8"]},
+  "Mario Party DS": {"hidden": true, "yaml_option": ["mario_party_ds"]},
+  "Minigames": {"hidden": true, "yaml_option": ["minigame_sanity"]},
+  "Bonus": {"hidden": true, "yaml_option": ["bonus_sanity"]},
+  "Story Mode": {"hidden": true, "yaml_option": ["story_sanity"]},
+  "Mic Games": {"hidden": true, "yaml_option": ["mic_sanity"]},
+  "Boards": {"hidden": true},
+  "Itemsanity": {"hidden": true, "yaml_option": ["item_sanity"]},
+  "Rare Itemsanity": {"hidden": true, "yaml_option": ["rare_item_sanity"]},
+  "MP3 - Partnersanity": {"yaml_option": ["mp3_partner_sanity"]},
+  "MP7 - Character Orbs": {"hidden": true, "yaml_option": ["mp7_character_orb_sanity"]}
+}
