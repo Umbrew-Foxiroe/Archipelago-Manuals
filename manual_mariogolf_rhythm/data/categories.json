@@ -34,5 +34,5 @@
   "Technical Super Golf Stadium": {"yaml_option": ["technical_super_golf_stadium"]},
   "Courses": {"hidden": true},
   "Characters": {"hidden": true},
-  "Modes": {"hidden": true}
+  "Modes": {"hidden": true, "yaml_option": ["modesanity"]}
 }
